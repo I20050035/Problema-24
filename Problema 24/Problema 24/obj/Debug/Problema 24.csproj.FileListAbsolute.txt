@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\Problema 24\Problema 24\bin\Debug\Problema 24.exe.config
+C:\Users\Usuario\source\repos\Problema 24\Problema 24\bin\Debug\Problema 24.exe
+C:\Users\Usuario\source\repos\Problema 24\Problema 24\bin\Debug\Problema 24.pdb
+C:\Users\Usuario\source\repos\Problema 24\Problema 24\obj\Debug\Problema 24.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Problema 24\Problema 24\obj\Debug\Problema_24.Form1.resources
+C:\Users\Usuario\source\repos\Problema 24\Problema 24\obj\Debug\Problema_24.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Problema 24\Problema 24\obj\Debug\Problema 24.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Problema 24\Problema 24\obj\Debug\Problema 24.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Problema 24\Problema 24\obj\Debug\Problema 24.exe
+C:\Users\Usuario\source\repos\Problema 24\Problema 24\obj\Debug\Problema 24.pdb
